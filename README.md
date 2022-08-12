@@ -1,7 +1,7 @@
 ## 👋 Olá! Me chamo Mateus Nunes
 
 - 🔭 Lider de Suporte Técnico
-- 🌱 Estudando JavaScript
+- 🌱 Estudando NodeJS
 
 ##
 
