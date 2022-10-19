@@ -1,7 +1,7 @@
 ## 👋 Olá! Me chamo Mateus Nunes
 
-- 🔭 Lider de Suporte Técnico
-- 🌱 Estudando React
+- 🔭 Estagiário de Desenvolvimento na Framework Digital
+- 🌱 Estudando C# e DOTNET
 
 ##
 
