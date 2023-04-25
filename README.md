@@ -1,7 +1,7 @@
 ## 👋 Olá! Me chamo Mateus Nunes
 
-- 🔭 Estagiário de Desenvolvimento na Framework Digital
-- 🌱 Estudando C# e DOTNET
+- 🔭 Desenvolvedor C# na Framework Digital
+- 🌱 Estudando C# e Angular
 
 ##
 
